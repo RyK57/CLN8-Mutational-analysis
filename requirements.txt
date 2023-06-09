@@ -1,4 +1,4 @@
-base64
+base64==1.0.0
 csv
 matplotlib
 pandas
