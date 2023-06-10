@@ -1,5 +1,5 @@
 # CLN8-Mutational-analysis
-Python Streamlit app that performs data analaysis on csv data that includes microarray and other analysis on the mutations in patients with CLN8 and other medical diagnosis.
+Python Streamlit app that performs data analaysis on csv data that includes microarray and other analysis on the mutations in CLN8 identifiers
 
 The code appears to be a Streamlit application for performing data analysis on a CSV file containing information about CLN08 mutations. Let's break down the code and explain each section:
 
