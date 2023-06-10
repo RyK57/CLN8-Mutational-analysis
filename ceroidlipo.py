@@ -78,7 +78,7 @@ def perform_data_analysis(table_data):
 def main():
     st.title("Data Analysis of CLN08 Mutations")
     st.sidebar.title("By Rithvik Sabnekar")
-    st.sidebar.write("Below is the Data of CLN8 mutation diagnosis of 43 patients taken from https://www.ucl.ac.uk/ncl-disease/ncl-resource-gateway-batten-disease")
+    st.sidebar.write("Below is the Data of CLN8 mutation diagnosis of 43 identifiers taken from https://www.ucl.ac.uk/ncl-disease/ncl-resource-gateway-batten-disease")
     st.sidebar.write("Below is Link to example files used (excel and csv files) - https://drive.google.com/drive/folders/1sN7aabvBnrooZcg38aeNp-NpfJwRmmQC?usp=sharing")
 
     st.set_option('deprecation.showPyplotGlobalUse', False)
